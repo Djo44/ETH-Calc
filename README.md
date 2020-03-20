@@ -2,7 +2,4 @@
 Cryptocurrency calculator
 
 
-This web app calculate exact ammount of eth to be sent when you enter ammount in $.
-It takes current ETH price from API
-It adds fee of 0.005 ETH to the price because i use Kraken.com for sending cryptocurrencies.
-Example: I want to send $50 in ETH, i get prompt from app to enter ammount, after that i get exact amount to be sent including copy button.
+This web app calculates the exact amount of eth to be sent when you enter amount in $. It takes the current ETH price from API It adds a fee of 0.005 ETH to the price because I use Kraken.com for sending cryptocurrencies. Example: I want to send $50 in ETH, I get a prompt from the app to enter an amount in $, after that, I get exact amount to be sent including copy button.

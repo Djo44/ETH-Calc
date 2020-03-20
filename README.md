@@ -1,0 +1,2 @@
+# ETH-Calc
+Cryptocurrency calculator
